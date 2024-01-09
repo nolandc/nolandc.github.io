@@ -8,7 +8,13 @@ body {
 #name {
     color: #FFFFCF;
     font-size: 46px;
-    margin: 50px 0 60px 0;
+    margin: 50px 0 20px 0;
+}
+
+#bio {
+    margin-bottom: 60px;
+    color: #bebebec0;
+    line-height: 22px;
 }
 
 #flex-wrapper {
@@ -20,6 +26,14 @@ body {
 #main {
     width: 300px;
     text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+    #main {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 0 15px;
+    }
 }
 
 .section {
