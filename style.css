@@ -2,7 +2,7 @@
 body {
     background: #21292F;
     font-family: Arial, Helvetica, sans-serif;
-    color: #FFFFCF;
+    color: #bebebe;
 }
 
 #name {
@@ -13,7 +13,7 @@ body {
 
 #bio {
     margin-bottom: 60px;
-    color: #bebebec0;
+    color: #bebebe;
     line-height: 22px;
 }
 
@@ -66,7 +66,7 @@ body {
 }
 
 .project p {
-    color: #bebebec0;
+    color: #bebebe;
     font-size: 15px;
     line-height: 22px;
 }
