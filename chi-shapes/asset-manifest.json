@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a850e18.css",
-    "main.js": "/static/js/main.c61a6a33.js",
-    "static/js/453.0614359b.chunk.js": "/static/js/453.0614359b.chunk.js",
-    "index.html": "/index.html",
-    "main.3a850e18.css.map": "/static/css/main.3a850e18.css.map",
-    "main.c61a6a33.js.map": "/static/js/main.c61a6a33.js.map",
-    "453.0614359b.chunk.js.map": "/static/js/453.0614359b.chunk.js.map"
+    "main.css": "/chi-shapes/static/css/main.3a850e18.css",
+    "main.js": "/chi-shapes/static/js/main.dc846de4.js",
+    "static/js/453.0614359b.chunk.js": "/chi-shapes/static/js/453.0614359b.chunk.js",
+    "index.html": "/chi-shapes/index.html",
+    "main.3a850e18.css.map": "/chi-shapes/static/css/main.3a850e18.css.map",
+    "main.dc846de4.js.map": "/chi-shapes/static/js/main.dc846de4.js.map",
+    "453.0614359b.chunk.js.map": "/chi-shapes/static/js/453.0614359b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a850e18.css",
-    "static/js/main.c61a6a33.js"
+    "static/js/main.dc846de4.js"
   ]
 }
