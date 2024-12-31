@@ -24,8 +24,11 @@ body {
 }
 
 #main {
-    width: 300px;
     text-align: center;
+}
+
+.section.small {
+    width: 300px;
 }
 
 @media screen and (max-width: 600px) {
@@ -34,10 +37,18 @@ body {
         width: 100%;
         padding: 0 15px;
     }
+
+    .section.small {
+        width: 100%;
+    }
+
+    .project-list .project {
+        width: 100%;
+    }
 }
 
 .section {
-    margin-bottom: 60px;
+    margin-bottom: 20px;
 }
 
 .section-title {
@@ -49,9 +60,18 @@ body {
     font-size: 20px;
 }
 
+.project-list {
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    max-width: 700px;
+    justify-content: space-between;
+}
+
 .project {
     text-align: center;
     margin-bottom: 40px;
+    width: 46%;
 }
 
 .project-title {
